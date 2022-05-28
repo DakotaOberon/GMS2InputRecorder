@@ -2,7 +2,7 @@
  
 Record and play back user input.
 
-![Record and Playback Example](https://media3.giphy.com/media/HeXY8Do0OD0F7VCIVC/giphy.gif?cid=790b76115c392c1b21093114e35d027256cdeddd66746cd2&rid=giphy.gif&ct=g)
+![Record and Playback Example](https://media4.giphy.com/media/7VW2NhY2j4CZToqL09/giphy.gif?cid=790b7611e39ef6d97a60c4bbcd9cef03f3ecc0018e3014a4&rid=giphy.gif&ct=g)
 
 This is based on the GDC talk [Automated Testing and Instant Replays in Retro City Rampage](https://www.youtube.com/watch?v=W20t1zCZv8M) which shows the many ways recording user input can be used to create fun and exciting moments in games.
 
