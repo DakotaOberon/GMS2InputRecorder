@@ -2,6 +2,8 @@
  
 Record and play back user input.
 
+![Record and Playback Example](https://media3.giphy.com/media/HeXY8Do0OD0F7VCIVC/giphy.gif?cid=790b76115c392c1b21093114e35d027256cdeddd66746cd2&rid=giphy.gif&ct=g)
+
 This is based on the GDC talk [Automated Testing and Instant Replays in Retro City Rampage](https://www.youtube.com/watch?v=W20t1zCZv8M) which shows the many ways recording user input can be used to create fun and exciting moments in games.
 
 GameMaker only allows reading and writing in buffer_u8 which is equivelant to a byte of data, 8 times bigger than what we need.
